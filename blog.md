@@ -5,7 +5,16 @@
 API, Timer trigger, Azure function, HTTP function, Food API
 
 ## About Me
-Beatrix Cendana is a business student, UX designer/Writer, and tech writer based in Seattle, WA, US. She used to be a medical student in Indonesia and switched her career choice to tech when coming to the US. She is passionate about fast-paced career development, which inspires the way the world functions and lives. She also plans to build the startup in the future that focuses more on earth and sustainability.
+Beatrix Cendana is a business student, UX designer/Writer, and tech writer based in Seattle, WA, US. She used to be a medical student in Indonesia and switched her career choice to tech when coming to the US. She first got into programming when she was in the second year of college. 
+
+> I thought to go to Data Science, so I took many math classes (the highest one was Calc 4), Java 1 and 2 classes. 
+
+In her final year of college, she figured out that she was interested in something else instead: designing, writing, and developing a web/application. Thus, she decided not to move forward pursuing a data science career.
+
+For her passion, she is passionate about fast-paced career development, which inspires the way the world functions and lives. She also plans to build a startup in the future that focuses more on earth and sustainability. 
+
+To learn more about how she switched her career and the challenges she faced, she will soon create a YouTube video to tell more about her story. 
+`Stay tuned! The link will be linked here.`
 
 ## Introduction
 As a UX designer, tech writer, and international student that works or studies from home due to the pandemic, I need a product that can help me to generate a random recipe for daily cooking. Also, I need a reminder when it is time for me to eat lunch or breakfast. The reason is that I always focus on working without thinking about having a meal on the proper schedule. Before creating this idea or solution, I researched by asking ten people in my Discord group. 
