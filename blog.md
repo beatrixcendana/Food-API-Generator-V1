@@ -13,8 +13,8 @@ In her final year of college, she figured out that she was interested in somethi
 
 For her passion, she is passionate about fast-paced career development, which inspires the way the world functions and lives. She also plans to build a startup in the future that focuses more on earth and sustainability. 
 
-To learn more about how she switched her career and the challenges she faced, she will soon create a YouTube video to tell more about her story. 
-`Stay tuned! The link will be linked here.`
+To learn more about the camp experience and the challenges she faced, here is the [link](https://www.youtube.com/watch?v=-W2uiTsRw7Y) to her YouTube video. 
+
 
 ## Introduction
 As a UX designer, tech writer, and international student that works or studies from home due to the pandemic, I need a product that can help me to generate a random recipe for daily cooking. Also, I need a reminder when it is time for me to eat lunch or breakfast. The reason is that I always focus on working without thinking about having a meal on the proper schedule. Before creating this idea or solution, I researched by asking ten people in my Discord group. 
