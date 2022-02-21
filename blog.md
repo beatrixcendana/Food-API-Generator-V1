@@ -100,4 +100,4 @@ The camp was such a wonderful experience! I never thought that I would have a ch
 
 > Last but not least, let's say 🥂🥂 thank you for all BitProject team and mentors for all your hardwork! 🥂🥂 Cheers! -- Beatrix Cendana
 
-<img src = "https://drive.google.com/uc?export=view&id=1_bgzBAHAqzV6ZVILLz49fLY2njJHvWSH" alt = "Huge thanks" width = 600/>
+<img src = "https://drive.google.com/uc?export=view&id=1_bgzBAHAqzV6ZVILLz49fLY2njJHvWSH" alt = "Huge thanks!" width = 600/>
