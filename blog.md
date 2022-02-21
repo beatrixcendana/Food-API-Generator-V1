@@ -56,7 +56,7 @@ No front end or UI in this feature. The language that I applied is Node.js.
 ## Step by step (with code snippets)
 ### The two reminders (breakfast and lunch) 
 Based on the timezone that people choose, they can get notifications when to prepare the meals. 
-<img src = "https://drive.google.com/uc?export=view&id=1kXfsDLvE3YDZ6JR6jAgIG7FnBDJNEcpU" alt = "Azure timer code" width = 600/>
+<!--- <img src = "https://drive.google.com/uc?export=view&id=1kXfsDLvE3YDZ6JR6jAgIG7FnBDJNEcpU" alt = "Azure timer code" width = 600/> --->
 <br>
 <img src = "https://drive.google.com/uc?export=view&id=1moDiHEi1GfpT645FWwM_aQ90-P4z6aSo" alt = "Timer reminder in SMS" width = 600/>
 <br>
@@ -65,7 +65,7 @@ Based on the timezone that people choose, they can get notifications when to pre
 ### Choose one ingredient you would like to have
 You can type any ingredients that you would like to have and get one random recipe (including the name of the recipe, description, and link). 
 <br>
-<img src = "https://drive.google.com/uc?export=view&id=1itBp2TOt-oT-yhdXn2ZNNIlPRMKVfSsQ" alt = "HTTP function" width = 600/>
+<!--- <img src = "https://drive.google.com/uc?export=view&id=1itBp2TOt-oT-yhdXn2ZNNIlPRMKVfSsQ" alt = "HTTP function" width = 600/> --->
 
 ### Satisfied or not?
 You can re-type the random ingredient again if you are not satisfied enough with the random recipe that API generates for you :) Easy, right?
