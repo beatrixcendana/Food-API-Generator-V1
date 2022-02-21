@@ -58,7 +58,7 @@ No front end or UI in this feature. The language that I applied is Node.js.
 Based on the timezone that people choose, they can get notifications when to prepare the meals. 
 <!--- <img src = "https://drive.google.com/uc?export=view&id=1kXfsDLvE3YDZ6JR6jAgIG7FnBDJNEcpU" alt = "Azure timer code" width = 600/> --->
 <br>
-<img src = "https://drive.google.com/uc?export=view&id=1moDiHEi1GfpT645FWwM_aQ90-P4z6aSo" alt = "Timer reminder in SMS" width = 600/>
+<img src = "https://drive.google.com/uc?export=view&id=1BlO5ukz2QUoFy4hDUTbx2hHN_MW6sSzc" alt = "Timer reminder in SMS" width = 600/>
 <br>
 <br>
 
